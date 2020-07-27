@@ -7,3 +7,5 @@ Another test w/ local edit.
 Another test w/ remote edit.
 ~~~
 Another test while making sure to specify pull method.
+~~~
+Tests, tests everywhere.
